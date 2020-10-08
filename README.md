@@ -19,9 +19,9 @@ Amazon Relational Database Service is a distributed relational database service 
 ~If you are optimizing app development for the cloud is that it gives you the platform to schedule and run containers on clusters of physical or virtual machines (VMs).
 
 ### Prerequisite
-AWS account
+•AWS account
 
-Minikube (as I am going to perform over minikube)
+•Minikube (as I am going to perform over minikube)
 Terraform tool
 
 ## 
