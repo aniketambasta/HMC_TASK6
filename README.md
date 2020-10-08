@@ -8,3 +8,19 @@ Deploy the Wordpress application on Kubernetes and AWS using terraform including
 4. The Wordpress application should be accessible from the public world if deployed on AWS or through workstation if deployed on Minikube.
 
 Try each step first manually and write Terraform code for the same to have a proper understanding of workflow of task.
+### What is RDS?
+
+Amazon Relational Database Service is a distributed relational database service by Amazon Web Services. Amazon RDS supports an array of database engines to store and organize data and helps with database management tasks.
+
+### What is Kubernetes?
+
+~Kubernetes is an open-source container platform that eliminates many of the manual processes involved in deploying and scaling containerized applications.
+
+~If you are optimizing app development for the cloud is that it gives you the platform to schedule and run containers on clusters of physical or virtual machines (VMs).
+
+### Prerequisite
+AWS account
+Minikube (as I am going to perform over minikube)
+Terraform tool
+
+## 
